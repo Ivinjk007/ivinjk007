@@ -6,6 +6,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://pin.it/iMZmjXkPH" alt="Description" width="500">
+</p>
 ### 🚀 About Me
 
 - 🔭 Currently building an **AI-powered Cyber Defense Digital Twin Project**.
