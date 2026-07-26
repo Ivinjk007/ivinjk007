@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Ivin Jijo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+B.Tech+CSE+Student;AI+%26+Machine+Learning+Developer;Cybersecurity+%26+Digital+Twin+Enthusiast;Building+Smart+Systems&font=Fira%20Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+B.Tech+CSE+Student;AI+%26+Machine+Learning+Developer; Cybersecurity+%26+Digital+Twin+Enthusiast;Building+Smart+Systems&font=Fira%20Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🌱 Deepening my knowledge in **Cybersecurity**, **Privacy-Preserving Machine Learning**, and **Full-Stack Systems**.
 - 👯 Open to collaborating on innovative **AI & Security** initiatives.
 - 💬 Ask me about **Python, Java, Flask, Flutter, and Git**.
-- 📫 Reach me at: **ivinjijo@gmail.com** *(update with your preferred email)*
+- 📫 Reach me at: **ivinjij045@gmail.com** 
 
 ---
 
@@ -55,7 +55,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivinjk007&color=blueviolet&style=flat" alt="Visitor Count" />
-</p>
