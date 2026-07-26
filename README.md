@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Ivin Jijo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+B.Tech+CSE+Student;AI+%26+Machine+Learning+Developer; Cybersecurity+%26+Digital+Twin+Enthusiast;Building+Smart+Systems&font=Fira%20Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+B.Tech+CSE+Student;AI+%26+Machine+Learning+Developer;Cybersecurity+%26+Digital+Twin+Enthusiast;Building+Smart+Systems&font=Fira%20Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 ---
