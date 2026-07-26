@@ -33,12 +33,12 @@
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivinjijo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjijo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivinjk007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjk007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivinjijo&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=ivinjk007&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivinjijo&color=blueviolet&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ivinjk007&color=blueviolet&style=flat" alt="Visitor Count" />
 </p>
